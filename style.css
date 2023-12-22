@@ -180,6 +180,14 @@ section p{
     height: 100px;
 }
 
+.row h3{
+    color: black;
+}
+
+.row p{
+    color: black;
+}
+
 section h3{
     color: white;
 }
@@ -194,6 +202,25 @@ section h3{
     justify-content: center;
     color: white;
 }
+
+.getintouch{
+    background-color: white;
+    color: black;
+}
+
+.getintouch h3{
+    color: black;
+}
+
+.getintouch p{
+    color: black;
+}
+
+#intodays{
+    color: white;
+}
+
+
 
 section input{
     height: 40px;
@@ -218,7 +245,8 @@ section button{
 
 footer{
     background-color: rgb(55, 55, 55);
-    color: black;
+    color:white;
+    font-size:small;
 
 }
 
